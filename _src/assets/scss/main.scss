@@ -4,7 +4,11 @@
 @import "layouts/header";
 @import "layouts/footer";
 
+html {
+  font-size: 62.5%;
+}
 body {
-  // background: url('../images/logo-adalab-80px.png') center center no-repeat $color-white;
+  //   // background: url('../images/logo-adalab-80px.png') center center no-repeat $color-white;
   height: 100vh;
+  font-family: "Montserrat", sans-serif;
 }
